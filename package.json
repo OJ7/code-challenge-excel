@@ -1,0 +1,23 @@
+{
+  "name": "code-challenge-excel",
+  "version": "1.0.0",
+  "description": "Write a NodeJS Script that reads data from a SQL Database of your choice, filters that data to only include the data for one specific client, and converts that data into a multi-tabbed Excel spreadsheet (sample-output.xlsx).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OJ7/code-challenge-excel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OJ7/code-challenge-excel/issues"
+  },
+  "homepage": "https://github.com/OJ7/code-challenge-excel#readme",
+  "dependencies": {
+    "exceljs": "^4.2.1",
+    "mysql": "^2.18.1"
+  }
+}
