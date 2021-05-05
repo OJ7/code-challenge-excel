@@ -4,6 +4,7 @@
   "description": "Write a NodeJS Script that reads data from a SQL Database of your choice, filters that data to only include the data for one specific client, and converts that data into a multi-tabbed Excel spreadsheet (sample-output.xlsx).",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
